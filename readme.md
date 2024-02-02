@@ -1,3 +1,3 @@
 # 100 Days of Python Projects
 
-## From Basic to Advancec
+## From Basic to Advance
